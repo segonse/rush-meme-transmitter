@@ -1,0 +1,11 @@
+.topDog {
+  font-size: 38px;
+  color: transparent;
+  background: linear-gradient(135deg, #ff5733 0%, #ffbd33 100%);
+  background-clip: text;
+  text-align: center;
+  position: relative;
+  transform: skew(-10deg) scaleX(0.9);
+  text-shadow: 2px 2px 0 #ff5733, -2px -2px 0 #ffbd33, 2px -2px 0 #ffbd33,
+    -2px 2px 0 #ff5733;
+}
